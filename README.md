@@ -1,5 +1,5 @@
 # SMS_SPAM_DETECTION
-# SMS Spam Detection
+
 
 A simple, clear Google Colab notebook for detecting spam in SMS messages. The notebook loads data, cleans and preprocesses text, builds and evaluates models, and includes notes for deployment.
 
